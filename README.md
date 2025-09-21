@@ -15,3 +15,6 @@
 
 ## 官方Demo
 👉 [体验 DINOv2 在线 Demo](https://dinov2.metademolab.com/)
+
+### Depth Estimation
+![Uploading image.png…]()
