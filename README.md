@@ -1,6 +1,7 @@
 # 🦕 DINOv2 Feature Visualization Demo
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tao030/DINOv2_demo/blob/main/dinov2_feature_visualization_demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tao030/DINOv2_demo/blob/master/dinov2_feature_visualization_demo.ipynb)
+
 
 ## 📖 简介
 
