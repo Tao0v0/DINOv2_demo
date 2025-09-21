@@ -11,3 +11,7 @@
 1. 点击上方的"Open in Colab"按钮
 2. 运行所有代码单元格
 3. 查看DINOv2特征可视化结果
+
+
+## 官方Demo
+👉 [体验 DINOv2 在线 Demo](https://dinov2.metademolab.com/)
