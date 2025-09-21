@@ -1,6 +1,7 @@
 # 🦕 DINOv2 Feature Visualization Demo
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tao030/DINOv2_demo/blob/main/dinov2_feature_visualization_demo.ipynb)
+
 ## 📖 简介
 
 本项目展示了DINOv2模型的特征可视化效果，帮助学生理解自监督学习模型是如何"看到"图像的。
