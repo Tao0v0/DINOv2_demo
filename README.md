@@ -17,8 +17,6 @@
 👉 [体验 DINOv2 在线 Demo](https://dinov2.metademolab.com/)
 
 ### Depth Estimation
-<p align="center">
-  <img src="assets/dense_matching.png" width="30%" alt="Dense Matching"/>
-  <img src="assets/depth_estimation.png" width="30%" alt="Depth Estimation"/>
-  <img src="assets/semantic_segmentation.png" width="30%" alt="Semantic Segmentation"/>
-</p>
+![Dense Matching](assets/dense_matching.png)
+![Depth Estimation](assets/depth_estimation.png)
+![Semantic Segmentation](assets/semantic_segmentation.png)
