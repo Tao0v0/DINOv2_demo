@@ -17,6 +17,6 @@
 👉 [体验 DINOv2 在线 Demo](https://dinov2.metademolab.com/)
 
 ### Depth Estimation
-![效果截图]("assets/Dense Matching.png")
-![效果截图]("assets/Depth Estimation.png")
-![效果截图]("assets/Semantic Segmentation.png")
+![Dense Matching](assets/Dense%20Matching.png)
+![Depth Estimation](assets/Depth%20Estimation.png)
+![Semantic Segmentation](assets/Semantic%20Segmentation.png)
